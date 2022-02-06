@@ -6,4 +6,5 @@
  * Probe: PT1000
  * Hotend: E3D-V6
  * Extruder: Titan
+ * Probe: BL-Touch
  
